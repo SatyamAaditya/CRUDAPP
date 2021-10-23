@@ -17,6 +17,6 @@ The feature of this site is that you can create notes and store in database, and
   
 ## Screenshots
 
-![iNotes UI](https://github.com/SatyamAaditya/CRUDAPP/new/Projects/Screenshot%20(554).png)
+![iNotes UI](https://github.com/SatyamAaditya/CRUDAPP/blob/Projects/Screenshot%20(554).png)
 
   
